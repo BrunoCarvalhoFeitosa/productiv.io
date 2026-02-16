@@ -1,36 +1,101 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/BrunoCarvalhoFeitosa/productiv.io">
+    <img src="\public\images\common\logo.png" alt="Logo" width="90" weight="90" />
+  </a>
 
-## Getting Started
+  <p align="center">
+    Landing page de um SaaS feita em Next.js, Typescript, GSAP e TailwindCSS.
+  </p>
 
-First, run the development server:
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Sumário</summary>
+  <ol>
+    <li>
+      <a href="#sobre-o-projeto">Sobre o projeto</a>
+      <ul>
+        <li><a href="#feito-com">Feito com</a></li>
+        <li><a href="#hospedagem">Hospedagem</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#iniciando-o-projeto">Iniciando o projeto</a>
+      <ul>
+        <li><a href="#pré-requisitos">Pré-requisitos</a></li>
+        <li><a href="#instalação">Instalação</a></li>
+      </ul>
+    </li>
+    <li><a href="#license">Licenças</a></li>
+    <li><a href="#contato">Contato</a></li>
+  </ol>
+</details>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<!-- ABOUT THE PROJECT -->
+## Sobre o projeto
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Homepage
+Página totalmente responsiva, se adapta a qualquer tamanho de tela.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+https://github.com/user-attachments/assets/cee59977-408b-4916-9bbe-67fb70af4bdd
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Cadastro
+Página totalmente responsiva, se adapta a qualquer tamanho de tela.
 
-## Learn More
+https://github.com/user-attachments/assets/976bdbc6-17e9-4341-a61d-5d5c0231387c
 
-To learn more about Next.js, take a look at the following resources:
+### Login
+Página totalmente responsiva, se adapta a qualquer tamanho de tela.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+https://github.com/user-attachments/assets/5d0991f7-5af2-4779-b11c-f4496cc7da9d
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Feito com
 
-## Deploy on Vercel
+* [Next.js](https://nextjs.org)
+* [Typescript](https://www.typescriptlang.org)
+* [GSAP](https://gsap.com)
+* [TailwindCSS](https://tailwindcss.com)
+* [Vercel](https://vercel.com)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Hospedagem
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+A aplicação está em produção neste link: (https://bruno-carvalho-feitosa-productiv-io-saas.vercel.app).
+
+<!-- GETTING STARTED -->
+## Iniciando o projeto
+
+Primeiramente será necessário clonar este projeto em (https://github.com/BrunoCarvalhoFeitosa/productiv.io.git), após o download será necessário abrir este projeto no seu editor e no terminal digitar npm install, posteriormente é só rodar em seu terminal o comando npm run dev, após isso, a página será aberta em seu navegador.
+
+### Pré-requisitos
+
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Instalação
+
+1. Clone o repositório
+   ```sh
+   git clone https://github.com/BrunoCarvalhoFeitosa/productiv.io.git
+   ```
+2. Instale os pacotes do NPM
+   ```sh
+   npm install
+   ```
+   
+3. Inicie o projeto
+   ```sh
+   npm run dev
+   ```   
+
+<!-- LICENSE -->
+## License
+
+Distribuído sob a licença MIT.
+
+<!-- CONTACT -->
+## Contato
+
+Bruno Carvalho Feitosa - [GitHub](https://github.com/BrunoCarvalhoFeitosa) - [LinkedIn](https://www.linkedin.com/in/bruno-carvalho-feitosa/)
